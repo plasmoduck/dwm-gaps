@@ -8,7 +8,7 @@ This is my personal patched version I use on FreeBSD.
 Patches include: Fibonacii Layouts, The Column Layout, Cycle Layouts, Move Stack, Save Floats,  Resize Corners, Barpadding, Vanity Gaps, Alternative Tags, Urgent Borders, Scratchpad & Status All Monitors plus others.
 
 **Screenshots**
-![dwm freebsd](screen.png)
+![dwm-gaps](antman.png)
 
 
 Requirements
