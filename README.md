@@ -5,7 +5,7 @@ is an extremely fast, small, and dynamic window manager for X written in C.
 
 This is my personal patched version I use on FreeBSD.
 
-Patches include: Fibonacii Layouts, The Column Layout, Cycle Layouts, Move Stack, Save Floats,  Resize Corners, Barpadding, Vanity Gaps, Alternative Tags, Urgent Borders, Scratchpad & Status All Monitors plus others.
+Patches include: Fibonacii Layouts, The Column Layout, Cycle Layouts, Move Stack, Save Floats,  Resize Corners, Barpadding, Vanity Gaps, Alternative Tags, Urgent Borders, Scratchpad & Status All Monitors, Spawn Center plus others.
 
 **Screenshots**
 ![dwm-gaps](antman.png)
